@@ -37,6 +37,7 @@ Curriculum-Learning-DQN/
 │
 ├── Curriculum-Learning-DQN.ipynb
 ├── README.md
+├── requirements.txt
 └── outputs/
     ├── Baseline_vs_Curriculum.png
     ├── Convergence.png
