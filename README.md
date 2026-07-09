@@ -99,7 +99,7 @@ The curriculum gradually increases the learning complexity through four stages:
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/Curriculum-Learning-DQN.git
+git clone https://github.com/ShivanshuPauskar/Curriculum-Learning-DQN.git
 cd Curriculum-Learning-DQN
 ```
 
