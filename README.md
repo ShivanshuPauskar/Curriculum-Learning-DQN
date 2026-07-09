@@ -75,7 +75,8 @@ The curriculum gradually increases the learning complexity through four stages:
 
 ### 📊 Training Stability
 
-![Training Stability](outputs/Stability.png)
+![Training Stability]<img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/6894df6f-b7fd-4806-9d13-395a10687991" />
+
 
 ---
 
