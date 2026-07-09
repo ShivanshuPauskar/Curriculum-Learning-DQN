@@ -81,7 +81,7 @@ The curriculum gradually increases the learning complexity through four stages:
 
 ### ✅ Success Rate Comparison
 
-![Success Rate](outputs/Success_Rate.png)
+![Success Rate]<img width="536" height="451" alt="image" src="https://github.com/user-attachments/assets/e4284dd6-70b2-4cb3-adef-4e56e2675c66" />
 
 ---
 
