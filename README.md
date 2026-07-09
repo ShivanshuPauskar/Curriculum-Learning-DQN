@@ -69,7 +69,8 @@ The curriculum gradually increases the learning complexity through four stages:
 
 ### 📉 Convergence Comparison
 
-![Convergence](outputs/Convergence.png)
+<img width="698" height="470" alt="image" src="https://github.com/user-attachments/assets/4979d155-642d-4aff-b659-6405309af119" />
+
 
 ---
 
