@@ -63,7 +63,8 @@ The curriculum gradually increases the learning complexity through four stages:
 
 ### 📈 Baseline vs Curriculum Learning
 
-![Baseline vs Curriculum](outputs/Baseline_vs_Curriculum.png)
+<img width="698" height="470" alt="image" src="https://github.com/user-attachments/assets/3540c299-15d8-4769-ab9e-dc23e043c207" />
+
 
 ---
 
